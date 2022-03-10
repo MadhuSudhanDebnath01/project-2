@@ -1,0 +1,53 @@
+.container{
+    border: 3px solid red;
+}
+.item{
+  display: inline-flex;
+  flex-flow: row;
+  font-size: 40px;
+  font-weight:bold ;
+  margin-left: 400px;
+}
+.item1{
+  margin-left: 680px;
+}
+.item2{
+
+margin-top: 20px;
+}
+
+.box{
+  
+    height:350px;
+    width: 300px;
+    margin: 100px;
+    border-radius: 20px;
+    box-shadow: 8px 6px 10px gray;
+    
+  }
+  .box1{
+      border: 3px solid red;
+      text-align: center;
+     padding-top: 30px;
+     margin-left: 550px;
+  }
+  .button{
+    color: red;
+    font-size:35px;
+  
+  }
+  .font1{
+    font-size: 30px;
+   font-family: 'Courier New';
+    color: red;
+  }
+  .font2{
+    font-weight: bold;
+    color: red;
+    text-decoration: line-through;
+  }
+  hr{
+    
+    width: 200px;
+    margin-right: 10px;
+  }
